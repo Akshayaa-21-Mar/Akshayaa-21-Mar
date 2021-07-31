@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akshayaa-21-Mar
+- 👋 Hi, I’m @Akshaya.
 - 👀 I’m interested in enhancing my coding skills
 - 🌱 I’m currently learning HTML , Python and R 
 - 💞️ I’m looking to collaborate on projects like developing a chatbot for purposes of clinical operations from scratch and in any projects that involve complete coding skills.
